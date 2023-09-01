@@ -1,4 +1,4 @@
-id,name,namsinh,tuoi,quequan
-1,a,1999,24,tiengiang
-2,b,2000,23,vinhlong
-3,c,1990,34,cantho
+id,name,gioitinh,namsinh,tuoi,quequan
+1,a,1999,nam,24,tiengiang
+2,b,2000,nu,23,vinhlong
+3,c,1990,nam,34,cantho
